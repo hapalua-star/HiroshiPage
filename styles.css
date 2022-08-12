@@ -2,7 +2,7 @@
 
 .background
 {
-    background-color: green;
+    background-color: rgb(13, 65, 13);
 }
 
 .title
@@ -10,6 +10,7 @@
     display:flex;
     justify-content: center;
     margin-top: 100px;
+    color: gold;
 }
 
 
@@ -40,6 +41,7 @@
    flex-direction: row;
    justify-content: space-around;
    gap: 25px;
+   color:aqua;
 }
 
 .container3
@@ -47,4 +49,5 @@
     display:flex;
     justify-content: center;
     margin-top:150px;
+    color: aqua;
 }
